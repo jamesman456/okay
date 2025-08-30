@@ -28,7 +28,7 @@ function About() {
       await emailjs.send(
         process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID!,
         process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID!,
-        { Message },
+        { message: Message },
         process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY!
       );
 
