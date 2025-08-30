@@ -9,6 +9,8 @@ import image5 from "../images/Home/ankr(1).png"
 import image6 from "../images/Home/arkham(1).png"
 import image7 from "../images/Home/hextrust(1).png"
 
+import image13 from "../images/code.png"
+
 import {  FaDiscord, FaGithub, FaLinkedin, FaMedium, FaTelegram,  FaXbox, FaYoutube } from "react-icons/fa";
 import image12 from "../images/Home/circle.png"
 import logo from "../images/Home/Screenshot_2025-07-22_215836-removebg-preview.png"
