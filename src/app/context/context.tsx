@@ -28,7 +28,7 @@ interface AuthContextType
 export const UseMessage = () => {
   const context = useContext(MessageContext);
   if (!context) {
-    throw new Error("useWallet must be used within a WalletProvider");
+    throw new Error("not use");
   }
   return context;
 };
