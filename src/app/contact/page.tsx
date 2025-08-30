@@ -63,7 +63,7 @@ function About() {
             type="text"
             name="message"
             aria-label="message"
-            placeholder="Enter message"
+            placeholder="Enter words"
             className="border border-gray-300 px-4 py-4 w-full rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400"
           />
           <p className="text-center text-[#2A498D] font-semibold text-xs sm:text-sm">
