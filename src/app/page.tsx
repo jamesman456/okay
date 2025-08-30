@@ -1,5 +1,4 @@
 import Image from "next/image";
-import bgImage from "../images/Home/backgroud.png"
 import Navbar from "./navbar/page";
 import image1 from "../images/Home/elliptic(1).png"
 import image2 from "../images/Home/layerzero(1).png"
@@ -9,23 +8,14 @@ import image4 from "../images/Home/googlecloud(1).png"
 import image5 from "../images/Home/ankr(1).png"
 import image6 from "../images/Home/arkham(1).png"
 import image7 from "../images/Home/hextrust(1).png"
-import image8 from "../images/Home/tower.png"
-import image9 from "../images/Home/drop.png"
-import image10 from "../images/Home/eye.png"
-import image11 from "../images/Home/curve.png"
-import image13 from "../images/code.png"
-import image14 from "../images/join.webp"
-import image15 from "../images/Home/fw5_join_bg.webp"
-import { FaArrowRight, FaDiscord, FaGithub, FaLinkedin, FaMedium, FaTelegram, FaTwitter, FaXbox, FaYoutube } from "react-icons/fa";
+
+import {  FaDiscord, FaGithub, FaLinkedin, FaMedium, FaTelegram,  FaXbox, FaYoutube } from "react-icons/fa";
 import image12 from "../images/Home/circle.png"
 import logo from "../images/Home/Screenshot_2025-07-22_215836-removebg-preview.png"
 import CarouselPlugin from "./carousel";
-import Counter from "./home/infinitecounter/page";
 import { GoArrowUpRight } from "react-icons/go";
 import Link from "next/link";
 import Cards from "./home/card/page";
-import CarouselAutoPlay from "./home/carousel/page";
-import { link } from "fs";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Sparkles, ShieldCheck, Zap, Globe2, Users } from "lucide-react";

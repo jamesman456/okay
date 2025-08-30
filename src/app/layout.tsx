@@ -1,8 +1,6 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { MessageProvider } from "./context/context";
-import logo from "@/images/Home/Screenshot_2025-07-22_215836-removebg-preview.png"
 import TawkChat from "./TawkChat";
 
 export const metadata: Metadata = {

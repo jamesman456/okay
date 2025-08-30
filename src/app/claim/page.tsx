@@ -1,5 +1,5 @@
 'use client'
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import Image from 'next/image'
 import image1 from "@/images/Home/claim/images.png"
 import image2 from "@/images/Home/claim/walle.jpg"
@@ -74,7 +74,6 @@ import image69 from "@/images/Home/claim/others.jpg"
 import image70 from "@/images/Home/claim/exodus.png"
 import image71 from "@/images/Home/claim/decent.jpg"
 import image72 from "@/images/Home/claim/unnamed.png"
-import { title } from 'process'
 import { FaShieldAlt } from "react-icons/fa";
 import { StaticImport } from 'next/dist/shared/lib/get-img-props'
 import { useRouter } from 'next/navigation'
